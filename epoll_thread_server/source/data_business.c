@@ -12,6 +12,7 @@ void* data_business(void* arg){
 
 	//读取请求数据，非阻塞读
 	while((len=RECV(client_sock,buffer,sizeof(buffer),MSG_DONTWAIT))>0){
+		heart_time_map[client_sock]=time(NULL);
 		//判断客户端请求
 		if(strcmp(buffer,"time\n")==0){
 			tp=time(NULL);
@@ -19,7 +20,7 @@ void* data_business(void* arg){
 			SEND(client_sock,time_buf,strlen(time_buf),0);
 		}
 		else if(strcmp(buffer,"0")==0){
-			heart_time_map[client_sock]=time(NULL);
+			printf("heart\n");
 		}
 		else{
 			SEND(client_sock,"PLease try again\n",17,0);

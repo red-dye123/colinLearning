@@ -42,7 +42,6 @@ void* customer_thread(void*);//消费者线程工作，等待于任务队列，�
 void* manager_thread(void*);//管理者线程工作，等待于阈值，根据条件判断扩容缩减 管理线程数量
 int if_thread_alive(pthread_t tid);//线程失效返回0,存活返回1
 
-void scan_heart();
 extern std::map<int,time_t> heart_time_map;
 #define MAXTIME 5
 
