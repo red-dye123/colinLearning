@@ -1,0 +1,44 @@
+﻿  CKernel.cpp
+E:\vs\IMserver\IMserver\CKernel.cpp(106,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(120,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(132,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(154,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(211,83): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(236,88): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(241,86): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(258,76): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(217,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(246,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(256,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(279,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(286,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(289,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(305,64): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(311,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(353,61): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(333,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(391,59): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(374,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(379,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(405,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(423,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(428,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(435,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(460,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(478,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(483,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(534,86): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(567,76): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(515,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(539,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(550,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(555,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(562,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(580,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(587,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(615,61): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(603,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(621,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\vs\IMserver\IMserver\CKernel.cpp(647,56): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+E:\vs\IMserver\IMserver\CKernel.cpp(636,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  IMserver.vcxproj -> E:\vs\IMserver\x64\Debug\IMserver.exe
